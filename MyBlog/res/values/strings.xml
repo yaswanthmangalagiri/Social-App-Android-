@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyBlog</string>
+    <string name="action_settings">Settings</string>
+	<string name="intro">HEllO THERE !
+
+I am Yaswanth, an undergraduate at IIT Roorkee. I made this app to show this as a demo. I started learning Java then later I came to know that Android App development is also an application of Java
+
+So,this is my first App.</string>
+
+	<string name="whatido"> Skills </string>
+<string name="iamon">You can find me on</string>
+<string name="wherei">Here I am !</string>
+<string name="bloggerdes">Here I am !</string>
+<string name="facebookdes">Here I am !</string>
+<string name="googledes">Here I am !</string>
+<string name="linkedindes">Here I am !</string>
+</resources>
